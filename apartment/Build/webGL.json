@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Lastekodu5_demo",
+"productName": "apartment_demo",
 "dataUrl": "webGL.data.unityweb",
 "wasmCodeUrl": "webGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "webGL.wasm.framework.unityweb",
